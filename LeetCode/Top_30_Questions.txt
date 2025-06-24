@@ -1,0 +1,130 @@
+
+Top 30 Interview Questions
+
+Section 1: Introduction
+-----------------------
+344. Reverse String
+448. Find All Numbers Disappeared in an Array
+977. Squares of a Sorted Array
+
+
+Section 2: Map and Set
+----------------------
+217. Contains Duplicate
+242. Valid Anagram
+771. Jewels and Stones
+266. Palindrome Permutation
+409. Longest Palindrome
+49. Group Anagrams
+
+Section 3: Matrix
+-----------------
+766. Toeplitz Matrix
+867. Transpose Matrix
+
+Section 4: Stack Data Structure
+-----------------
+20. Valid Parentheses
+155. Min Stack
+1021. Remove Outermost Parentheses
+
+Section 5: Queue and Data Structure
+-----------------
+933. Number of Recent Calls
+346. Moving Average from Data Stream
+
+Section 6: Binary Search
+-----------------
+704. Binary Search
+35. Search Insert Position
+852. Peak Index in a Mountain Array
+
+Section 7: Linked List
+-----------------
+876. Middle of the Linked List
+19. Remove Nth Node From End of List
+369. Add 1 to a number represented as linked list
+
+Section 8: Tree
+---------------
+100. Same Tree
+94. Binary Tree Inorder Traversal
+101. Symmetric Tree
+102. Binary Tree Level Order Traversal
+
+Section 9: BST
+---------------
+701. Insert into a Binary Search Tree
+700. Search in a Binary Search Tree
+  . Validate Binary Search Tree
+
+Section 11: Graph
+--------------------
+1791. Find Center of Star Graph
+997. Find the Town Judge
+1042. Flower Planting With No Adjacent
+
+Section 12: DFS
+--------------------
+733. Flood Fill
+200. Number of Islands
+
+Section 13: Dynamic Programing
+-------------------------------
+121. Best Time to Buy and Sell Stock
+256. Paint House
+
+
+
+
+=============================================================================
+Interview with Tekion 
+Date 6 Mar 2025
+
+Q1. 
+=====
+Given the arrival and departure times of all trains that reach a railway station, the task is to find the minimum number of platforms required for the railway station so that no train waits.  
+
+ 
+We are given two arrays that represent the arrival and departure times of trains that stop. 
+
+Note: The arrival and departure arrays need not be in sorted order. 
+
+Example 1: 
+
+Input: arr[] = {900, 940, 950, 1100, 1500, 1800}  
+dep[] = {910, 1200, 1120, 1130, 1900, 2000}
+
+Output: 3  
+Explanation: There are at-most three trains at a time (time between 9:40 to 12:00) 
+
+Example 2: 
+
+Input: arr[] = {900, 940}  
+dep[] = {910, 1200}  
+Output: 1  
+Explanation: Only one platform is needed.  
+
+
+Q2.
+=====
+Given a Binary Search Tree (BST), modify it so that all greater values in the given BST are added to every node. For example, consider the following BST. 
+
+			  50 
+           /      \ 
+         30        70  
+        /   \          /  \ 
+      20    40    60   80  
+	  
+	  
+Daily Challenge
+----------------
+https://leetcode.com/problems/solving-questions-with-brainpower/description/?envType=daily-question&envId=2025-04-01
+
+
+
+
+
+https://www.udemy.com/course/developer-to-architect/?couponCode=25BBPMXPLOYTRMT
+https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
+	  
