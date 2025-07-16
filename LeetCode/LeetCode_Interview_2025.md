@@ -6,6 +6,8 @@ These problems are frequently asked in FAANG & top tech company interviews. Solv
 
 1️⃣ **[Two Sum - Easy](https://lnkd.in/d4Kp2ZQi)**  
 2️⃣ **[Add Two Numbers - Medium](https://lnkd.in/dBWZQQkv)**  
+  ➡️ **Solution**: [LeetCode submission walkthrough](https://leetcode.com/problems/add-two-numbers/submissions/1700191247/)
+
 3️⃣ **[Longest Substring Without Repeating Characters - Medium](https://lnkd.in/d8N2FQgJ)**  
 4️⃣ **[Median of Two Sorted Arrays - Hard](https://lnkd.in/d2RxyMwY)**  
 5️⃣ **[Longest Palindromic Substring - Medium](https://lnkd.in/dNYADGdf)**  
